@@ -1,0 +1,27 @@
+
+.navbar {
+    background-color: blue;
+    overflow: hidden;
+    transition: background-color 0.3s; /* Transition for color change */
+  }
+
+  /* Change the background color of navbar on hover */
+  .navbar:hover {
+    background-color: yellow;
+  }
+
+  /* Styling for the navbar items */
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: color 0.3s; /* Transition for color change */
+  }
+
+  /* Change the color of navbar text when hovered over */
+  .navbar:hover a {
+    color: blue;
+  }
