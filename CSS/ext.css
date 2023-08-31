@@ -3,6 +3,12 @@
     background-color: blue;
     overflow: hidden;
     transition: background-color 0.3s; /* Transition for color change */
+    position: fixed; /* Position the navbar */
+    top: 0; /* Position it at the top */
+    left: 0; /* Adjust left if needed */
+    width: 100%;
+    
+    
   }
 
   /* Change the background color of navbar on hover */
