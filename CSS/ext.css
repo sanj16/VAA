@@ -22,6 +22,6 @@
   }
 
   /* Change the color of navbar text when hovered over */
-  .navbar:hover a {
+  a:hover  {
     color: blue;
   }
