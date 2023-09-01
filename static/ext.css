@@ -30,3 +30,15 @@
   a:hover  {
     color: black;
   }
+  #img {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 32px;
+    height: 32px;
+}
+.navbar:hover + #img {
+  content: url('https://i.ibb.co/hg2n0NB/va-logo-black.png');
+  /* Add transition for a smooth effect */
+  transition: color 0.3s; 
+}
