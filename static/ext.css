@@ -42,7 +42,7 @@
     height: 32px;
 }
 .navbar:hover + #img {
-  content: url('https://i.ibb.co/hg2n0NB/va-logo-black.png');
+  content: url('../static/images/Black.png');
   /* Add transition for a smooth effect */
   transition: color 0.3s; 
 }
