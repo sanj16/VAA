@@ -1,3 +1,7 @@
+*{
+  font-family: 'Raleway', sans-serif;
+}
+
 .navbar {
     background-color:#232324;
     overflow: hidden;
