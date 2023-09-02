@@ -28,7 +28,7 @@
 
   /* Change the color of navbar text when hovered over */
   a:hover  {
-    color: black;
+    color: #232324;
   }
   #img {
     position: fixed;
