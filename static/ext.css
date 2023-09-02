@@ -93,3 +93,7 @@ h3{
   color:#232324;
   background: #EE964B;
 }
+::-moz-selection { /* Code for Firefox */
+  color: #232324;
+  background: #EE964B;
+}
