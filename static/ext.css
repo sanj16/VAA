@@ -89,3 +89,7 @@ h3{
   margin: 80px;
   text-align: justify;
 }
+::selection {
+  color:#232324;
+  background: #EE964B;
+}
